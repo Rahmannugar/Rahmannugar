@@ -34,7 +34,7 @@ Aspiring blockchain developer.
 
 ---
 
-<img alt="Rahman Nugar's Github stats" width="26px" src="https://github-readme-stats.vercel.app/api?username=Rahmannugar&theme=github_dark&show_icons=true" />
+<img alt="Rahman Nugar's Github stats" src="https://github-readme-stats.vercel.app/api?username=Rahmannugar&theme=github_dark&show_icons=true" />
 
 [twitter]: https://twitter.com/NugarRahman
 [discord]: https://discord.com/users/Rahmannugar#3310
