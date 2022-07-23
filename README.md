@@ -3,8 +3,11 @@ Aspiring blockchain developer.
 💡Next learning curve: { Solidity, Hardhat, Ether.Js, Rust}
 
 😊My interests/hobbies are software development💻, cryptocurrency💹, sports⚽, games🎮.
+<br/>
 💡I’m currently learning various technologies.
+<br/>
 🌏 I’m looking to work on products that have real world impacts and collaborate on open source projects.
+<br/>
 📧You can reach me at cladeadenugar@gmail.com
 
 ### Links.
