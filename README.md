@@ -1,6 +1,6 @@
-🧑‍💼Software engineer that specialises in web development. Standard experience of using numerous languages, frameworks/libraries including CSS: (Vanilla CSS, tailwindCSS), JavaScript, ReactJs, NodeJs & ExpressJs, Mongodb and GIT. Focused on learning new technologies and mastering already learnt ones.
+🧑‍💼Software engineer that specialises in web development. Standard experience of using numerous languages, frameworks/libraries including CSS: (Vanilla CSS, tailwindCSS), JavaScript, TypeScript ReactJs, NodeJs & ExpressJs, Mongodb and GIT. Focused on learning new technologies and mastering already learnt ones.
 
-😊My interests/hobbies are software development💻, cryptocurrency💹, sports⚽, games🎮.
+😊My interests/hobbies are software development💻, pyhsics, trading, sports⚽, games🎮.
 <br/>
 💡I’m currently learning various technologies.
 <br/>
