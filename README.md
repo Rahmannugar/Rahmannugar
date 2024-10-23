@@ -25,7 +25,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][nugar]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nugar]
 [<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][nugar]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][nugar]
 [<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][nugar]
 
 <br/>
@@ -37,5 +36,5 @@
 
 [twitter]: https://twitter.com/NugarRahman
 [discord]: https://discord.com/users/Rahmannugar#3310
-[linkedin]: https://www.linkedin.com/in/rahman-nugar-9a1bb5233
+[linkedin]: https://www.linkedin.com/in/rahmannugar
 [nugar]: https://github.com/Rahmannugar
