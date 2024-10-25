@@ -1,9 +1,5 @@
-🧑‍💼Software engineer that specialises in web development. Standard experience of using numerous languages, frameworks/libraries including CSS: (Vanilla CSS, tailwindCSS), JavaScript, TypeScript ReactJs, NodeJs & ExpressJs, Mongodb and GIT. Focused on learning new technologies and mastering already learnt ones.
+Dynamic web development specialist with three years of hands-on experience in crafting scalable solutions. Proﬁcient in front-end and back-end technologies. Collaborative and innovative problem solver.
 
-😊My interests/hobbies are software development💻, pyhsics, trading, sports⚽, games🎮.
-<br/>
-💡I’m currently learning various technologies.
-<br/>
 🌏 I’m looking to work on products that have real world impacts and collaborate on open source projects.
 <br/>
 📧You can reach me at cladeadenugar@gmail.com
