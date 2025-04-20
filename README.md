@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahman Nugar
 ====================================================================================================================================
 
-Software Engineer
+Frontend Engineer
 -----------------
 
-Dynamic web development specialist with four years of hands-on experience in crafting scalable solutions. Proﬁcient in front-end and back-end technologies. Collaborative and innovative problem solver.
+Frontend engineer with four years of experience in developing scalable, high-performance web applications with a strong focus on responsive design and user experience. Proficient in both front-end and back-end technologies, with a deep commitment to clean architecture, code quality, and performance optimization.
 
 * 🖥️  See my portfolio at [Nugar.dev](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
