@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-Frontend engineer with four years of experience in developing scalable, high-performance web applications with a strong focus on responsive design and user experience. Proficient in both front-end and back-end technologies, with a deep commitment to clean architecture, code quality, and performance optimization.
+Frontend engineer with multiple years of experience in developing scalable, high-performance web applications with a strong focus on responsive design and user experience. Proficient in both front-end and back-end technologies, with a deep commitment to clean architecture, code quality, and performance optimization.
 
 * 🖥️  See my portfolio at [Nugar.dev](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
+* ✍️  I occasionally write articles at [dev.to/rahmannugar](https://dev.to/rahmannugar)
 
 ### Skills
 
