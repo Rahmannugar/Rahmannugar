@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahman Nugar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abdulrahmon Adenuga
 ====================================================================================================================================
 
 Frontend Engineer
 -----------------
 
-Frontend engineer with multiple years of experience in developing scalable, high-performance web applications with a strong focus on responsive design and user experience. Proficient in both front-end and back-end technologies, with a deep commitment to clean architecture, code quality, and performance optimization.
+Experienced frontend engineer with full-stack experience building scalable, high-performance web applications. Skilled in developing responsive interfaces and efficient backend integrations with a focus on clean architecture, maintainable code, and performance optimization.
 
-* 🖥️  See my portfolio at [Nugar.dev](http://rahmannugar.vercel.app/)
+* 🖥️  See my portfolio at [rahmannugar.vercel.app](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
 * ✍️  I occasionally write articles at [dev.to/rahmannugar](https://dev.to/rahmannugar)
 
