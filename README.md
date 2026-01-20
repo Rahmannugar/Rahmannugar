@@ -30,5 +30,5 @@ Experienced software engineer with full-stack experience building scalable, high
 </a>
 
 <a href="https://github.com/rahmannugar">
-  <img src="https://streak-stats.demolab.com?user=rahmannugar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=rahmannugar&theme=tokyonight&hide_border=true" />
 </a>
