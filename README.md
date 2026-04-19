@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abdulrahmon Adenuga
 ====================================================================================================================================
 
-Experienced software engineer with full-stack experience building scalable, high-performance web applications. Specializes in building responsive user interfaces, integrating reliable backend systems, and delivering production-ready solutions with a strong emphasis on clean architecture, performance, and operational reliability.
-
+Software Engineer building scalable, high-performance web applications with experience designing and developing responsive frontends and reliable backend systems. Focused on clean architecture, performance, and long-term maintainability, with experience building distributed systems and delivering production-ready solutions at scale.
 
 * 🖥️  See my portfolio at [rahmannugar.vercel.app](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
