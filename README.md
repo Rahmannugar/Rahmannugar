@@ -1,7 +1,7 @@
 Abdulrahmon Adenuga
 ====================================================================================================================================
 
-Software Engineer building scalable, high-performance applications across the stack. Focused on clean architecture, performance, and long-term maintainability, with experience designing reliable backend systems and responsive user interfaces.
+Software Engineer specializing in building applications across the stack. I'm experienced in designing backend systems and user interfaces, with a focus on delivering well-engineered software.
 
 * 🖥️  See my portfolio at [rahmannugar.vercel.app](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
