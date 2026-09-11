@@ -1,7 +1,7 @@
 Abdulrahmon Adenuga
 ====================================================================================================================================
 
-Software Engineer specializing in backend systems, with experience building production applications using Go, TypeScript, and Node.js. I’ve worked on distributed systems, event-driven architectures, and data-intensive applications, while also building products across the stack.
+Software Engineer specializing in backend systems, with experience building production applications using Go, TypeScript, and Node.js. I’ve worked on distributed systems and data-intensive applications, while also building applications across the stack.
 
 * 🖥️  See my portfolio at [rahmannugar.vercel.app](http://rahmannugar.vercel.app/)
 * ✉️  You can contact me at [cladeadenugar@gmail.com](mailto:cladeadenugar@gmail.com)
