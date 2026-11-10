@@ -122,6 +122,16 @@ Software Engineer specializing in backend systems, with experience building prod
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" height="36" alt="Prometheus" title="Prometheus"/>
   </a>
 </td>
+<td align="center" width="60">
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" title="Terraform"/>
+  </a>
+</td>
+<td align="center" width="60">
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes"/>
+  </a>
+</td>
 </tr>
 </table>
 
